@@ -1,7 +1,12 @@
 ## Getting Started
 
-Create a project using this example:
+Install the dependencies using:
 
-```bash
-yarn
+```
+yarn install || npm install
+```
+After installing the dependencies, run using:
+
+```
+npm run dev
 ```
