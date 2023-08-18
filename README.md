@@ -1,7 +1,7 @@
 ## Getting Started
 
-Create a project using this example:
+Install the dependencies using:
 
-```bash
-yarn
+```
+yarn install
 ```
